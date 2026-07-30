@@ -1,9 +1,7 @@
 # Information
 
 This Is Just For Those Who Want To Use The Kiiroo PowerBlow. I Hope It Makes Your Night<br>
-Goto<br>
-[Intiface Central PB Support](https://github.com/LynxZizzle/Intiface-Central-PowerBlow-Support-Fork/releases)<br>
-For The Build.
+Goto [Intiface Central PB Support](https://github.com/LynxZizzle/Intiface-Central-PowerBlow-Support-Fork/releases) For The Build.
 
 # Intiface® Central
 
